@@ -1,0 +1,4 @@
+000001,apple,red fruit,1.5
+000002,grapes,the better cherry,3.25
+000003,watermelon,90% water weight,2.0
+000004,banana,fun to say,0.95
