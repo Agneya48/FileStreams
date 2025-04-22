@@ -304,7 +304,6 @@ public class RandProductMaker extends JFrame {
             productTable.repaint();
 
             clearFormFields();
-            testProductList();
 
         } catch (NumberFormatException e) {
             JOptionPane.showMessageDialog(this, "Invalid Input for Cost. Please enter a valid number.");
